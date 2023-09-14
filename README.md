@@ -1,2 +1,2 @@
 # askpass-dmenu
-to use, put ```Path askpass <path to script>``` into your ```/etc/sudo.conf```
+to use, run ```sudo make install``` put ```Path askpass <path to script>``` into your ```/etc/sudo.conf```
